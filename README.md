@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning to develop mobile app using Android with Kotlin!
+🌱 I’m currently learning to develop server using Node.js!
 
 
 ### 💪🏻Skills
