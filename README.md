@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning to develop server using Node.js!
+🌱 I’m currently learning to develop server using Node.js or FastAPI!
 
 
 ### 💪🏻Skills
@@ -32,4 +32,4 @@ Me
 <a href="https://nakyungim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff69b4?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://www.linkedin.com/in/nakyung-im-236062210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NakyungIm&theme=buefy&show_icons=true)
+
